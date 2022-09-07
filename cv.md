@@ -25,11 +25,13 @@ Results-oriented professional with 27 years of experience and a proven knowledge
 - WebStorm, VSCode, Git
 
 ## Code example:
+```
 String.prototype.toJadenCase = function () {
     let arr = this.split(/\s+/);
     arr.forEach((item, index, thisArr) => { thisArr[index] = item.substr(0, 1).toUpperCase() + item.substr(1) });
     return arr.join(' ');
   };
+```
 
 ## Work experience 
 1. Ukraine, ESHLITRADE Dnipro 
@@ -53,7 +55,7 @@ High School Diploma (Jun 1993)
 certificate: HISD 9569 3212 
 
 2. Programing course M101JS: MongoDB for Node.js Developers (Jul 2017)
- 
+
 certificate: https://university.mongodb.com/course_completion/86d13db0-4881-4b94-b5e9-d1219ec6 
 
 ## Additional information 
